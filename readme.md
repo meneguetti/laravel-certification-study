@@ -1,4 +1,4 @@
-<p align="center">## Laravel Certification Study</p>
+## <p align="center">Laravel Certification Study</p>
 
 ## About
 
